@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func Add(a, b int) int {
+func Add(a, b int) int { // проверка реагирования Git
 	return a + b
 }
 
